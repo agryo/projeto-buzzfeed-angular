@@ -73,3 +73,11 @@
     justify-content: center;
     align-items: center;
 }
+
+.quizz_resultado > h1 {
+    font-size: 50px;
+}
+
+.quizz_resultado > p {
+    font-size: 30px;
+}
