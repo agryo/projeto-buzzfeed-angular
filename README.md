@@ -1,1 +1,1 @@
-# projeto-buzzfeed-angular
+# Projeto BuzzFeed Clone usando Angular
